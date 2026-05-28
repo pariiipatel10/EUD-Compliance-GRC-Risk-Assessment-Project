@@ -43,3 +43,11 @@ The project analyses endpoint security gaps, compliance failures, and cybersecur
 
 ## Author
 Pari Patel
+SCREEN SHOTS:
+<img width="1868" height="635" alt="Screenshot 2026-05-27 155741" src="https://github.com/user-attachments/assets/e5f8253c-6659-47bf-a3bc-29425b464fbb" />
+<img width="1857" height="625" alt="Screenshot 2026-05-27 155807" src="https://github.com/user-attachments/assets/1f67afcc-9631-4903-9ef2-e001419aff6a" />
+<img width="1205" height="239" alt="image" src="https://github.com/user-attachments/assets/c8080c2e-4614-400e-a27a-0b7f5e53993d" />
+<img width="1132" height="470" alt="image" src="https://github.com/user-attachments/assets/7ff79af9-854f-414a-abfb-8ab591ceb003" />
+
+
+
